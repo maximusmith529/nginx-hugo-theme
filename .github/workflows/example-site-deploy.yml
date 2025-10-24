@@ -2,7 +2,7 @@ name: Deploy Example Site (GH Pages)
 env:
   GO_VERSION: "1.23"
   HUGO_VERSION: "0.147.8"
-  GH_PAGES_URL: https://nginxinc.github.io/nginx-hugo-theme
+  GH_PAGES_URL: https://maximusmith529.github.io/nginx-hugo-theme
 
 on:
   release:
